@@ -10090,7 +10090,6 @@
 87687,125572,125572,/BdToJpsiKstar_BMuonFilter_SoftQCDnonD_TuneCP5_13TeV-pythia8-evtgen/RunIIFall18GS-N1_102X_upgrade2018_realistic_v11-v1/GEN-SIM,T1_US_FNAL_Tape,GEN-SIM,32.34914,Run 2 pre-legacy MC
 87689,125575,125575,/SingleMuon/Run2017C-ZMu-17Nov2017-v1/RAW-RECO,T1_US_FNAL_Tape,RAW-RECO,32.16605,Run 2 pre-legacy data
 87693,125579,125579,/TT_TuneCUETP8M2T4_13TeV-powheg-fsrup-pythia8/RunIISummer16DR80-80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext3-v1/AODSIM,T1_US_FNAL_Tape,AODSIM,31.93662,Run 2 pre-legacy MC
-87696,125583,125583,/Neutrino_E-10_gun/RunIISummer16FSPremix-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v4-v1/GEN-SIM-DIGI-RAW,T1_US_FNAL_Tape,GEN-SIM-DIGI-RAW,31.58983,Run 2 pre-legacy MC
 87712,125599,125599,/QCD_Pt-300to470_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall18GS-102X_upgrade2018_realistic_v11_ext3-v1/GEN-SIM,T1_US_FNAL_Tape,GEN-SIM,30.69234,Run 2 pre-legacy MC
 87715,125602,125602,/JetHT/Run2016G-18Apr2017-v1/AOD,T1_US_FNAL_Tape,AOD,30.60593,Run 2 pre-legacy data
 87718,125605,125605,/TT_TuneCUETP8M2T4_13TeV-powheg-fsrdown-pythia8/RunIISummer16DR80-80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext3-v1/AODSIM,T1_US_FNAL_Tape,AODSIM,30.54631,Run 2 pre-legacy MC
